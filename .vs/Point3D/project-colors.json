@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "807770c0-c29f-4f2b-a7d7-8acad81fd4a1": {
+      "ProjectGuid": "807770c0-c29f-4f2b-a7d7-8acad81fd4a1",
+      "DisplayName": "Point3D",
+      "ColorIndex": 0
+    },
+    "c5e5606d-145c-4272-8db4-f540a327af12": {
+      "ProjectGuid": "c5e5606d-145c-4272-8db4-f540a327af12",
+      "DisplayName": "Math",
+      "ColorIndex": 1
+    },
+    "7d40a80d-01ad-43ae-80aa-4a07a9b6f89e": {
+      "ProjectGuid": "7d40a80d-01ad-43ae-80aa-4a07a9b6f89e",
+      "DisplayName": "Duration",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

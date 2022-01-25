@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\bin\Debug\net6.0\Duration.exe
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\bin\Debug\net6.0\Duration.deps.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\bin\Debug\net6.0\Duration.runtimeconfig.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\bin\Debug\net6.0\Duration.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\bin\Debug\net6.0\ref\Duration.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\bin\Debug\net6.0\Duration.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\ref\Duration.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.genruntimeconfig.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Duration\obj\Debug\net6.0\Duration.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\bin\Debug\net6.0\Math.exe
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\bin\Debug\net6.0\Math.deps.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\bin\Debug\net6.0\Math.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\bin\Debug\net6.0\ref\Math.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\bin\Debug\net6.0\Math.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\ref\Math.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache

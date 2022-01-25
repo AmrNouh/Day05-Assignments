@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\bin\Debug\net6.0\Point3D.exe
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\bin\Debug\net6.0\Point3D.deps.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\bin\Debug\net6.0\Point3D.runtimeconfig.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\bin\Debug\net6.0\Point3D.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\bin\Debug\net6.0\ref\Point3D.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\bin\Debug\net6.0\Point3D.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\ref\Point3D.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Point3D\Point3D\obj\Debug\net6.0\Point3D.genruntimeconfig.cache

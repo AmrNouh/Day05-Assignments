@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point3D", "Point3D\Point3D.csproj", "{807770C0-C29F-4F2B-A7D7-8ACAD81FD4A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{C5E5606D-145C-4272-8DB4-F540A327AF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duration", "Duration\Duration.csproj", "{7D40A80D-01AD-43AE-80AA-4A07A9B6F89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807770C0-C29F-4F2B-A7D7-8ACAD81FD4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807770C0-C29F-4F2B-A7D7-8ACAD81FD4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807770C0-C29F-4F2B-A7D7-8ACAD81FD4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807770C0-C29F-4F2B-A7D7-8ACAD81FD4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E5606D-145C-4272-8DB4-F540A327AF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E5606D-145C-4272-8DB4-F540A327AF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E5606D-145C-4272-8DB4-F540A327AF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E5606D-145C-4272-8DB4-F540A327AF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D40A80D-01AD-43AE-80AA-4A07A9B6F89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D40A80D-01AD-43AE-80AA-4A07A9B6F89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D40A80D-01AD-43AE-80AA-4A07A9B6F89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D40A80D-01AD-43AE-80AA-4A07A9B6F89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {288ECDBE-3172-4AAC-B3F0-7F0BEE6492B6}
+	EndGlobalSection
+EndGlobal
