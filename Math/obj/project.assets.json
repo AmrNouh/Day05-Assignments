@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Point3D\\Math\\Math.csproj",
+      "projectUniqueName": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Lab\\Math\\Math.csproj",
       "projectName": "Math",
-      "projectPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Point3D\\Math\\Math.csproj",
+      "projectPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Lab\\Math\\Math.csproj",
       "packagesPath": "C:\\Users\\N0o0u7\\.nuget\\packages\\",
-      "outputPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Point3D\\Math\\obj\\",
+      "outputPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Lab\\Math\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

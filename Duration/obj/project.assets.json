@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Point3D\\Duration\\Duration.csproj",
+      "projectUniqueName": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Lab\\Duration\\Duration.csproj",
       "projectName": "Duration",
-      "projectPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Point3D\\Duration\\Duration.csproj",
+      "projectPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Lab\\Duration\\Duration.csproj",
       "packagesPath": "C:\\Users\\N0o0u7\\.nuget\\packages\\",
-      "outputPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Point3D\\Duration\\obj\\",
+      "outputPath": "F:\\ITI PD 9Month\\C#\\Day05\\Assignments\\Lab\\Duration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

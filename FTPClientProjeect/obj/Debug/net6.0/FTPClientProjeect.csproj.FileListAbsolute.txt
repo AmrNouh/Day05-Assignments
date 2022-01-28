@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\bin\Debug\net6.0\FTPClientProjeect.exe
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\bin\Debug\net6.0\FTPClientProjeect.deps.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\bin\Debug\net6.0\FTPClientProjeect.runtimeconfig.json
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\bin\Debug\net6.0\FTPClientProjeect.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\bin\Debug\net6.0\ref\FTPClientProjeect.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\bin\Debug\net6.0\FTPClientProjeect.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\ref\FTPClientProjeect.dll
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.pdb
+F:\ITI PD 9Month\C#\Day05\Assignments\Lab\FTPClientProjeect\obj\Debug\net6.0\FTPClientProjeect.genruntimeconfig.cache
